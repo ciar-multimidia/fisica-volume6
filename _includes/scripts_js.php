@@ -1,1 +1,1 @@
-<script src='<?php echo ('js/app.js'); ?>'></script>
+<script src='<?php print HTTP; ?>js/app.js'></script>
