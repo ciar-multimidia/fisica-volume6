@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>oi</h1>
-
+	<?php include '_includes/scripts_js.php'; ?>
 
 </body>
 </html>
